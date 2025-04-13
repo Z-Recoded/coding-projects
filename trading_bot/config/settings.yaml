@@ -1,0 +1,5 @@
+# config/settings.yaml
+trading_enabled: true
+paper_trading: true
+report_frequency: "daily"
+telegram_channel_id: "YOUR_CHANNEL_ID"
